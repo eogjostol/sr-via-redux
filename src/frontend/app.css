@@ -1,0 +1,45 @@
+body {
+    background-color: azure;
+    font-family: Tahoma, sans-serif;
+    margin: 0;
+}
+
+.app form {
+  display: block;
+  font-size: 18px;
+  margin: 3px 0;
+  padding: 2px 10px;
+}
+
+.Login-form {
+    color: green;
+    font-size: 18px;
+    padding: 1px 20px;
+}
+
+.Login-input {
+    display: block;
+    font-size: 18px;
+    margin: 3px 0;
+    padding: 2px 10px;
+}
+
+.Login-submit {
+    font-size: 18px;
+    background-color: lightgray;
+    border-radius: 10px;
+    color: red;
+    height: 30px;
+    width: 212px;
+    margin: 3px 0;
+}
+
+.Welcome {
+    font-size: 18px;
+    background-color: lightgray;
+    border-radius: 10px;
+    color: red;
+    height: 30px;
+    width: 212px;
+    margin: 3px 0;
+}

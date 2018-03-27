@@ -4,11 +4,13 @@
 # Log file
 *.log
 
-# BlueJ files
-*.ctxt
+# IntelliJ files
+*.iml
+.idea/
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# NPM files
+node_modules/
+bundle.js
 
 # Package Files #
 *.jar
